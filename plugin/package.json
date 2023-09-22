@@ -1,0 +1,11 @@
+{
+  "name": "bunfun",
+  "version": "1.0.0",
+  "type": "module",
+  "author": "Colin McDonnell",
+  "main": "index.tsx",
+  "dependencies": { "js-yaml": "^4.1.0" },
+  "devDependencies": {
+    "bun-types": "^1.0.3"
+  }
+}
